@@ -36,7 +36,6 @@ I believe in continuous learning, staying curious, and approaching challenges wi
 ###
 
 <p align="left">👋 I’m Nisarga from Jalpaiguri, West Bengal, India.<br>
-- 🔭 Currently pursuing Computer Science Engineering (Data Science) at Netaji Subhash Engineering College and studying Data Science & Artificial Intelligence at IIT Guwahati.<br>
 - 📚 Exploring app development and AI/ML, always curious to learn and build.<br>
 - ⚡ In my free time, I enjoy coding fun projects, experimenting with models, and painting.
 </p>
@@ -47,7 +46,7 @@ I believe in continuous learning, staying curious, and approaching challenges wi
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
