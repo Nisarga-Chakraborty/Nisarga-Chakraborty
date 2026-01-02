@@ -84,7 +84,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Nisarga-Chakraborty/Nisarga-Chakraborty/output/snake.svg" alt="Snake animation" />
-
-###
