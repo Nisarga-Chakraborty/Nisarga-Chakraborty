@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">👋 I’m Nisarga from Jalpaiguri, West Bengal, India.<br>- 🔭 Currently pursuing Computer Science Engineering (Data Science) at Netaji Subhash Engineering College and studying Data Science & Artificial Intelligence at IIT Guwahati.<br>- 📚 Exploring app development and AI/ML, always curious to learn and build.<br>- ⚡ In my free time, I enjoy coding fun projects, experimenting with models, and painting.</p>
+<p align="left">- 📚 Exploring app development and AI/ML, always curious to learn and build.<br>- ⚡ In my free time, I enjoy coding fun projects, experimenting with models, and painting.</p>
 
 ###
 
